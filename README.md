@@ -2,5 +2,5 @@ JavascriptLibery_Note
 =====================
 
 ##Tools##
-1.DateJs。<br>
+1.DateJs。
 [Link](http://www.datejs.com/)<br>
