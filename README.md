@@ -16,5 +16,11 @@ JavascriptLibery_Note
 處理Json(物件->字串)轉換。
 <br>
 <br>
-
+3.jquery.cookie[Link](https://github.com/carhartl/jquery-cookie)
+<br>
+描述-
+<br>
+瀏覽器cookie 處理。
+<br>
+<br>
 
